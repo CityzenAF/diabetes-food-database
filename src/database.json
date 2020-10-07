@@ -468,5 +468,14 @@
       "suggestions":"Avoid eating Biryani in restaurants. Prepare it at home with brown basmati rice and without any oil if possible. Have veggies along with it.",
       "ingredients":["chicken", "rice", "meat"]
     }
+    {
+    "name": "fish curry",
+      "displayName": "Fish Curry",
+      "alternateNames": ["curry", "hooman"],
+      "level":4,
+      "explanation":"Fish Curry is a mixture of fish and spices. It is very nutritious as well as delicious.",
+      "suggestions":"Avoid using normal oil for prep instead use healthy alternative like olive oil.",
+      "ingredients":["fish", "spices" , "veges"]
+  }
   ]
 }
